@@ -1,0 +1,12 @@
+build/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Local editor and OS files
+.DS_Store
+.vscode/
+.idea/
